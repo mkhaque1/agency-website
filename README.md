@@ -3,7 +3,7 @@
 
 ## designing a new agengy project - Demo agency (one page)
 
-full responsive link: (https://mkhaque1.github.io/Nipro-agency/)
+full responsive link: ( https://mkhaque1.github.io/agency-website/)
 
 ## Getting Started
 
