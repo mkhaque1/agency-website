@@ -1,0 +1,128 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    .b_left h1, .about_text h1, .f_text h1 {
+        font-size: 21px;
+        line-height: 30px;
+        margin: 24px 0px;
+    }
+    .about_right {
+        margin-top: 84px;
+    }
+    .about_text h3, .w_text h3 {
+        margin: -9px 0px;
+        font-size: 18px;
+    }
+    .sm-img{
+        width: 89%;
+    }
+    .ai{
+        width: 40%;
+    }
+    .video, .features {
+        padding: 0px 0px;
+    }
+    .vdo{
+        width: 200px;
+    }
+    .fi{
+        width: 30%;
+    }
+    .features2 {
+        padding-top: 100px;
+        padding-bottom: 15px;
+    }
+    .p_title h1 {
+        font-size: 34px;
+    }
+    .pb_img {
+        margin-left: 39px;
+    }
+    .div {
+        width: 205px;
+    }
+    input {
+        width: 294px;
+    }
+    .map_form {
+        margin: 15px;
+        padding: 12px;
+    }
+    .c_left {
+        padding: 4px 14px;
+    }
+    .img-fluid {
+        max-width: 68% !important;
+    }
+    
+}
+    
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+   
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .about_text h1 {
+        font-size: 44px;
+        line-height: 55px;
+    }
+    .about_text h3 {
+        margin: 8px 0px;
+        font-size: 20px;
+    }
+    .ai{
+        width: 40%;
+    }
+    .fi{
+        width: 30%;
+    }
+    .f2_item{
+        margin-bottom: 30px;
+    }
+    .g_btn {
+        text-align: center;
+        margin-right: 50px;
+    }
+    .pb_text h1 {
+        font-size: 24px !important;
+        line-height: 30px !important;
+    }
+    .pb_img {
+        margin-left: 4px;
+    }
+    .div {
+        width: 246px;
+    }
+    .f_text h1 {
+        font-weight: 600;
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .test_top h1 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    input {
+        width: 227px;
+    }
+    .map_btm {
+        margin-bottom: 33px;
+    }
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+}
+
+/*Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px){
+
+}
