@@ -39,7 +39,6 @@ body{
     transition: all 0.5s;
 }
 .btn-common:hover{
-    letter-spacing: 0.1rem;
     background-color: #EF6D58;
     color: #fff;
 }
