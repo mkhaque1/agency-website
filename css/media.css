@@ -109,7 +109,7 @@
     }
     input {
         margin: 10px 0px;
-        width: 294px;
+        width: inherit;
     }
     .map_form {
         margin: 15px;
