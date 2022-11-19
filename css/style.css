@@ -843,3 +843,23 @@ input:focus{
     position: fixed;
     z-index: 100;
 }
+.up{
+    position: fixed;
+    bottom: 10%;
+    right: 5%;
+    height: 45px;
+    width: 45px;
+    cursor: pointer;
+}
+ 
+.up i{
+    font-size: 40px;
+    color: #EF6C57;
+    transition: all 0.5s ease;
+}
+.up i:hover{
+    transform: translateY(-10px) rotate(180deg);
+}
+.showup{
+    display: none;
+}
